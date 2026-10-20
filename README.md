@@ -31,7 +31,7 @@ Reusable composables: `HeaderCard`, `AddItemRow`, `ShoppingItemCard`, `EmptyStat
 1. Clone the repo, or download it as ZIP
 2. Open the folder in Android Studio (File → Open)
 3. Wait for the Gradle sync to finish
-4. Start an emulator or connect a phone with USB debugging on
+4. Start an emulator
 5. Press **Run ▶**
 
 ## Screenshots
